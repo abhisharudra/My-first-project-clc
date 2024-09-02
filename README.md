@@ -1,4 +1,4 @@
-## Note.... Plz download clc ICON file with .py file because i use this as a icon of calculator. So without this code can be crused..
+## Note.... Plz download clc ICON file with .py file and save in the same folder because i use this as a icon of calculator. So without this code can be crused  ..
 
 # Calculator by Abhishek Jain
 
